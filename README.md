@@ -1,7 +1,7 @@
 # MovieApp
 
 Hi! :wave: :blush:
-In this project is used movie TMdb database API and at the main page you can see list of movies, also Popular and Top Rated Movies list, which is changable by clicking on certain link. Also you can see detail page of selected single movie.
+In this project there was used movie TMdb database API and at the main page you can see the list of movies, also Popular and Top Rated Movie list, which is changable by clicking on certain link. Also you can see a detailed page of a selected single movie.
 But not responsive yet. 🖐️
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
